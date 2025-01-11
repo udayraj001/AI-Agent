@@ -12,5 +12,5 @@ This project creates an AI agent using free APIs and Python. It can answer quest
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository_url>
-   cd ai_agent_project
+   git clone https://github.com/udayraj001/AI-Agent.git
+   cd AI_AGENT
