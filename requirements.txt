@@ -1,0 +1,4 @@
+transformers
+flask
+wikipedia-api
+requests
